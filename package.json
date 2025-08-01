@@ -1,0 +1,12 @@
+{
+  "name": "uni-custom-scroll-refresh",
+  "version": "1.0.0",
+  "description": "基于scroll-view的自定义下拉样式组件(有阻尼效果)",
+  "main": "index.js",
+  "repository": "https://github.com/ahstufl/uni-refresh.git",
+  "author": "ahstufl",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.5.0"
+  }
+}
